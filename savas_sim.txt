@@ -1,0 +1,1985 @@
+
+senaryo.json ayristiriliyor...
+
+creatures.json ayristiriliyor...
+
+heroes.json ayristiriliyor...
+
+research.json ayristiriliyor...
+
+unit_types.json ayristiriliyor...
+
+--- Arastirma, Kahraman ve Canavar Etkileri Oncesi (Tur 0, Baslangic)---
+
+  piyadeler:
+    Saldiri: 30.00
+    Savunma: 40.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 100.00
+
+  okcular:
+    Saldiri: 40.00
+    Savunma: 20.00
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 80.00
+
+  suvariler:
+    Saldiri: 50.00
+    Savunma: 30.00
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 120.00
+
+  kusatma_makineleri:
+    Saldiri: 100.00
+    Savunma: 50.00
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 150.00
+
+  ork_dovusculeri:
+    Saldiri: 35.00
+    Savunma: 25.00
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 100.00
+
+  mizrakcilar:
+    Saldiri: 45.00
+    Savunma: 20.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 90.00
+
+  varg_binicileri:
+    Saldiri: 55.00
+    Savunma: 35.00
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 130.00
+
+  troller:
+    Saldiri: 70.00
+    Savunma: 40.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 200.00
+
+--- Senaryodan Gelen Canavar, Kahraman ve Arastirma Bilgileri ---
+
+Insan Imparatorlugu:
+  Kahramanlar:
+  Arastirma: savunma_ustaligi (Seviye 1)
+
+Ork Legi:
+  Kahramanlar:
+  Canavarlar:
+  Arastirma: saldiri_gelistirmesi (Seviye 1)
+
+Arastirma, Kahraman ve Canavar Etkileri Uygulaniyor...
+
+savunma_ustaligi arastirmasi uygulaniyor (Seviye 1, Bonus: 10%)
+saldiri_gelistirmesi arastirmasi uygulaniyor (Seviye 1, Bonus: 10%)
+
+Insan Imparatorlugu Kahraman ve Canavar Etkileri Uygulaniyor...
+
+
+Ork Legi Kahraman ve Canavar Etkileri Uygulaniyor...
+
+
+--- Arastirma, Kahraman ve Canavar Etkileri Sonrasi Durumlar---
+
+
+  piyadeler:
+    Saldiri: 30.00
+    Savunma: 44.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 100.00
+
+  okcular:
+    Saldiri: 40.00
+    Savunma: 22.00
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 80.00
+
+  suvariler:
+    Saldiri: 50.00
+    Savunma: 33.00
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 120.00
+
+  kusatma_makineleri:
+    Saldiri: 100.00
+    Savunma: 55.00
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 150.00
+
+  ork_dovusculeri:
+    Saldiri: 38.50
+    Savunma: 25.00
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 100.00
+
+  mizrakcilar:
+    Saldiri: 49.50
+    Savunma: 20.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 90.00
+
+  varg_binicileri:
+    Saldiri: 60.50
+    Savunma: 35.00
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 130.00
+
+  troller:
+    Saldiri: 77.00
+    Savunma: 40.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 200.00
+
+  piyadeler:
+    Saldiri: 30.00
+    Savunma: 44.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 100.00
+
+  okcular:
+    Saldiri: 40.00
+    Savunma: 22.00
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 80.00
+
+  suvariler:
+    Saldiri: 50.00
+    Savunma: 33.00
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 120.00
+
+  kusatma_makineleri:
+    Saldiri: 100.00
+    Savunma: 55.00
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 150.00
+
+  ork_dovusculeri:
+    Saldiri: 38.50
+    Savunma: 25.00
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 100.00
+
+  mizrakcilar:
+    Saldiri: 49.50
+    Savunma: 20.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 90.00
+
+  varg_binicileri:
+    Saldiri: 60.50
+    Savunma: 35.00
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 130.00
+
+  troller:
+    Saldiri: 77.00
+    Savunma: 40.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 200.00
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 220.00
+  Toplam Savunma Gucu: 154.00
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 225.50
+  Toplam Savunma Gucu: 120.00
+
+
+Toplam Hasar: 100.00
+ork_dovusculeri birimi 20.83 hasar aldi:
+ork_dovusculeri biriminin yeni saglik degeri: 79.17 (Birim sayisi: 1)
+mizrakcilar birimi 16.67 hasar aldi:
+mizrakcilar biriminin yeni saglik degeri: 73.33 (Birim sayisi: 1)
+varg_binicileri birimi 29.17 hasar aldi:
+varg_binicileri biriminin yeni saglik degeri: 100.83 (Birim sayisi: 1)
+troller birimi 33.33 hasar aldi:
+troller biriminin yeni saglik degeri: 166.67 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  piyadeler:
+    Saldiri: 30.00
+    Savunma: 44.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 100.00
+
+  okcular:
+    Saldiri: 40.00
+    Savunma: 22.00
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 80.00
+
+  suvariler:
+    Saldiri: 50.00
+    Savunma: 33.00
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 120.00
+
+  kusatma_makineleri:
+    Saldiri: 100.00
+    Savunma: 55.00
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 150.00
+
+  ork_dovusculeri:
+    Saldiri: 38.50
+    Savunma: 25.00
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 79.17
+
+  mizrakcilar:
+    Saldiri: 49.50
+    Savunma: 20.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 73.33
+
+  varg_binicileri:
+    Saldiri: 60.50
+    Savunma: 35.00
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 100.83
+
+  troller:
+    Saldiri: 77.00
+    Savunma: 40.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 166.67
+
+  ork_dovusculeri:
+    Saldiri: 38.50
+    Savunma: 25.00
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 79.17
+
+  mizrakcilar:
+    Saldiri: 49.50
+    Savunma: 20.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 73.33
+
+  varg_binicileri:
+    Saldiri: 60.50
+    Savunma: 35.00
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 100.83
+
+  troller:
+    Saldiri: 77.00
+    Savunma: 40.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 166.67
+
+  piyadeler:
+    Saldiri: 30.00
+    Savunma: 44.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 100.00
+
+  okcular:
+    Saldiri: 40.00
+    Savunma: 22.00
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 80.00
+
+  suvariler:
+    Saldiri: 50.00
+    Savunma: 33.00
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 120.00
+
+  kusatma_makineleri:
+    Saldiri: 100.00
+    Savunma: 55.00
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 150.00
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 225.50
+  Toplam Savunma Gucu: 120.00
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 220.00
+  Toplam Savunma Gucu: 154.00
+
+
+Toplam Hasar: 71.50
+piyadeler birimi 20.43 hasar aldi:
+piyadeler biriminin yeni saglik degeri: 79.57 (Birim sayisi: 1)
+okcular birimi 10.21 hasar aldi:
+okcular biriminin yeni saglik degeri: 69.79 (Birim sayisi: 1)
+suvariler birimi 15.32 hasar aldi:
+suvariler biriminin yeni saglik degeri: 104.68 (Birim sayisi: 1)
+kusatma_makineleri birimi 25.54 hasar aldi:
+kusatma_makineleri biriminin yeni saglik degeri: 124.46 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  ork_dovusculeri:
+    Saldiri: 38.50
+    Savunma: 25.00
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 79.17
+
+  mizrakcilar:
+    Saldiri: 49.50
+    Savunma: 20.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 73.33
+
+  varg_binicileri:
+    Saldiri: 60.50
+    Savunma: 35.00
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 100.83
+
+  troller:
+    Saldiri: 77.00
+    Savunma: 40.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 166.67
+
+  piyadeler:
+    Saldiri: 30.00
+    Savunma: 44.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 79.57
+
+  okcular:
+    Saldiri: 40.00
+    Savunma: 22.00
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 69.79
+
+  suvariler:
+    Saldiri: 50.00
+    Savunma: 33.00
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 104.68
+
+  kusatma_makineleri:
+    Saldiri: 100.00
+    Savunma: 55.00
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 124.46
+
+  piyadeler:
+    Saldiri: 30.00
+    Savunma: 44.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 79.57
+
+  okcular:
+    Saldiri: 40.00
+    Savunma: 22.00
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 69.79
+
+  suvariler:
+    Saldiri: 50.00
+    Savunma: 33.00
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 104.68
+
+  kusatma_makineleri:
+    Saldiri: 100.00
+    Savunma: 55.00
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 124.46
+
+  ork_dovusculeri:
+    Saldiri: 38.50
+    Savunma: 25.00
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 79.17
+
+  mizrakcilar:
+    Saldiri: 49.50
+    Savunma: 20.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 73.33
+
+  varg_binicileri:
+    Saldiri: 60.50
+    Savunma: 35.00
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 100.83
+
+  troller:
+    Saldiri: 77.00
+    Savunma: 40.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 166.67
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 220.00
+  Toplam Savunma Gucu: 154.00
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 225.50
+  Toplam Savunma Gucu: 120.00
+
+
+Toplam Hasar: 100.00
+ork_dovusculeri birimi 20.83 hasar aldi:
+ork_dovusculeri biriminin yeni saglik degeri: 58.33 (Birim sayisi: 1)
+mizrakcilar birimi 16.67 hasar aldi:
+mizrakcilar biriminin yeni saglik degeri: 56.67 (Birim sayisi: 1)
+varg_binicileri birimi 29.17 hasar aldi:
+varg_binicileri biriminin yeni saglik degeri: 71.67 (Birim sayisi: 1)
+troller birimi 33.33 hasar aldi:
+troller biriminin yeni saglik degeri: 133.33 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  piyadeler:
+    Saldiri: 30.00
+    Savunma: 44.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 79.57
+
+  okcular:
+    Saldiri: 40.00
+    Savunma: 22.00
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 69.79
+
+  suvariler:
+    Saldiri: 50.00
+    Savunma: 33.00
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 104.68
+
+  kusatma_makineleri:
+    Saldiri: 100.00
+    Savunma: 55.00
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 124.46
+
+  ork_dovusculeri:
+    Saldiri: 38.50
+    Savunma: 25.00
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 58.33
+
+  mizrakcilar:
+    Saldiri: 49.50
+    Savunma: 20.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 56.67
+
+  varg_binicileri:
+    Saldiri: 60.50
+    Savunma: 35.00
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 71.67
+
+  troller:
+    Saldiri: 77.00
+    Savunma: 40.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 133.33
+
+  ork_dovusculeri:
+    Saldiri: 38.50
+    Savunma: 25.00
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 58.33
+
+  mizrakcilar:
+    Saldiri: 49.50
+    Savunma: 20.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 56.67
+
+  varg_binicileri:
+    Saldiri: 60.50
+    Savunma: 35.00
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 71.67
+
+  troller:
+    Saldiri: 77.00
+    Savunma: 40.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 133.33
+
+  piyadeler:
+    Saldiri: 30.00
+    Savunma: 44.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 79.57
+
+  okcular:
+    Saldiri: 40.00
+    Savunma: 22.00
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 69.79
+
+  suvariler:
+    Saldiri: 50.00
+    Savunma: 33.00
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 104.68
+
+  kusatma_makineleri:
+    Saldiri: 100.00
+    Savunma: 55.00
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 124.46
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 225.50
+  Toplam Savunma Gucu: 120.00
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 220.00
+  Toplam Savunma Gucu: 154.00
+
+
+Toplam Hasar: 71.50
+piyadeler birimi 20.43 hasar aldi:
+piyadeler biriminin yeni saglik degeri: 59.14 (Birim sayisi: 1)
+okcular birimi 10.21 hasar aldi:
+okcular biriminin yeni saglik degeri: 59.57 (Birim sayisi: 1)
+suvariler birimi 15.32 hasar aldi:
+suvariler biriminin yeni saglik degeri: 89.36 (Birim sayisi: 1)
+kusatma_makineleri birimi 25.54 hasar aldi:
+kusatma_makineleri biriminin yeni saglik degeri: 98.93 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  ork_dovusculeri:
+    Saldiri: 38.50
+    Savunma: 25.00
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 58.33
+
+  mizrakcilar:
+    Saldiri: 49.50
+    Savunma: 20.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 56.67
+
+  varg_binicileri:
+    Saldiri: 60.50
+    Savunma: 35.00
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 71.67
+
+  troller:
+    Saldiri: 77.00
+    Savunma: 40.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 133.33
+
+  piyadeler:
+    Saldiri: 30.00
+    Savunma: 44.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 59.14
+
+  okcular:
+    Saldiri: 40.00
+    Savunma: 22.00
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 59.57
+
+  suvariler:
+    Saldiri: 50.00
+    Savunma: 33.00
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 89.36
+
+  kusatma_makineleri:
+    Saldiri: 100.00
+    Savunma: 55.00
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 98.93
+
+  piyadeler:
+    Saldiri: 30.00
+    Savunma: 44.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 59.14
+
+  okcular:
+    Saldiri: 40.00
+    Savunma: 22.00
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 59.57
+
+  suvariler:
+    Saldiri: 50.00
+    Savunma: 33.00
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 89.36
+
+  kusatma_makineleri:
+    Saldiri: 100.00
+    Savunma: 55.00
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 98.93
+
+  ork_dovusculeri:
+    Saldiri: 38.50
+    Savunma: 25.00
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 58.33
+
+  mizrakcilar:
+    Saldiri: 49.50
+    Savunma: 20.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 56.67
+
+  varg_binicileri:
+    Saldiri: 60.50
+    Savunma: 35.00
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 71.67
+
+  troller:
+    Saldiri: 77.00
+    Savunma: 40.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 133.33
+
+
+Tur 5: Yorgunluk uygulaniyor. Tum birimlerin saldiri ve savunma gucleri %10 azaliyor...
+
+piyadeler birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 27.00
+  Yeni Savunma Gucu: 39.60
+
+okcular birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 36.00
+  Yeni Savunma Gucu: 19.80
+
+suvariler birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 45.00
+  Yeni Savunma Gucu: 29.70
+
+kusatma_makineleri birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 90.00
+  Yeni Savunma Gucu: 49.50
+
+ork_dovusculeri birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 34.65
+  Yeni Savunma Gucu: 22.50
+
+mizrakcilar birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 44.55
+  Yeni Savunma Gucu: 18.00
+
+varg_binicileri birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 54.45
+  Yeni Savunma Gucu: 31.50
+
+troller birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 69.30
+  Yeni Savunma Gucu: 36.00
+
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 198.00
+  Toplam Savunma Gucu: 138.60
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 202.95
+  Toplam Savunma Gucu: 108.00
+
+
+Toplam Hasar: 90.00
+ork_dovusculeri birimi 18.75 hasar aldi:
+ork_dovusculeri biriminin yeni saglik degeri: 39.58 (Birim sayisi: 1)
+mizrakcilar birimi 15.00 hasar aldi:
+mizrakcilar biriminin yeni saglik degeri: 41.67 (Birim sayisi: 1)
+varg_binicileri birimi 26.25 hasar aldi:
+varg_binicileri biriminin yeni saglik degeri: 45.42 (Birim sayisi: 1)
+troller birimi 30.00 hasar aldi:
+troller biriminin yeni saglik degeri: 103.33 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  piyadeler:
+    Saldiri: 27.00
+    Savunma: 39.60
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 59.14
+
+  okcular:
+    Saldiri: 36.00
+    Savunma: 19.80
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 59.57
+
+  suvariler:
+    Saldiri: 45.00
+    Savunma: 29.70
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 89.36
+
+  kusatma_makineleri:
+    Saldiri: 90.00
+    Savunma: 49.50
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 98.93
+
+  ork_dovusculeri:
+    Saldiri: 34.65
+    Savunma: 22.50
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 39.58
+
+  mizrakcilar:
+    Saldiri: 44.55
+    Savunma: 18.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 41.67
+
+  varg_binicileri:
+    Saldiri: 54.45
+    Savunma: 31.50
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 45.42
+
+  troller:
+    Saldiri: 69.30
+    Savunma: 36.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 103.33
+
+  ork_dovusculeri:
+    Saldiri: 34.65
+    Savunma: 22.50
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 39.58
+
+  mizrakcilar:
+    Saldiri: 44.55
+    Savunma: 18.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 41.67
+
+  varg_binicileri:
+    Saldiri: 54.45
+    Savunma: 31.50
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 45.42
+
+  troller:
+    Saldiri: 69.30
+    Savunma: 36.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 103.33
+
+  piyadeler:
+    Saldiri: 27.00
+    Savunma: 39.60
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 59.14
+
+  okcular:
+    Saldiri: 36.00
+    Savunma: 19.80
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 59.57
+
+  suvariler:
+    Saldiri: 45.00
+    Savunma: 29.70
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 89.36
+
+  kusatma_makineleri:
+    Saldiri: 90.00
+    Savunma: 49.50
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 98.93
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 202.95
+  Toplam Savunma Gucu: 108.00
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 198.00
+  Toplam Savunma Gucu: 138.60
+
+
+Toplam Hasar: 64.35
+piyadeler birimi 18.39 hasar aldi:
+piyadeler biriminin yeni saglik degeri: 40.76 (Birim sayisi: 1)
+okcular birimi 9.19 hasar aldi:
+okcular biriminin yeni saglik degeri: 50.38 (Birim sayisi: 1)
+suvariler birimi 13.79 hasar aldi:
+suvariler biriminin yeni saglik degeri: 75.57 (Birim sayisi: 1)
+kusatma_makineleri birimi 22.98 hasar aldi:
+kusatma_makineleri biriminin yeni saglik degeri: 75.95 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  ork_dovusculeri:
+    Saldiri: 34.65
+    Savunma: 22.50
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 39.58
+
+  mizrakcilar:
+    Saldiri: 44.55
+    Savunma: 18.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 41.67
+
+  varg_binicileri:
+    Saldiri: 54.45
+    Savunma: 31.50
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 45.42
+
+  troller:
+    Saldiri: 69.30
+    Savunma: 36.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 103.33
+
+  piyadeler:
+    Saldiri: 27.00
+    Savunma: 39.60
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 40.76
+
+  okcular:
+    Saldiri: 36.00
+    Savunma: 19.80
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 50.38
+
+  suvariler:
+    Saldiri: 45.00
+    Savunma: 29.70
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 75.57
+
+  kusatma_makineleri:
+    Saldiri: 90.00
+    Savunma: 49.50
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 75.95
+
+  piyadeler:
+    Saldiri: 27.00
+    Savunma: 39.60
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 40.76
+
+  okcular:
+    Saldiri: 36.00
+    Savunma: 19.80
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 50.38
+
+  suvariler:
+    Saldiri: 45.00
+    Savunma: 29.70
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 75.57
+
+  kusatma_makineleri:
+    Saldiri: 90.00
+    Savunma: 49.50
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 75.95
+
+  ork_dovusculeri:
+    Saldiri: 34.65
+    Savunma: 22.50
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 39.58
+
+  mizrakcilar:
+    Saldiri: 44.55
+    Savunma: 18.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 41.67
+
+  varg_binicileri:
+    Saldiri: 54.45
+    Savunma: 31.50
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 45.42
+
+  troller:
+    Saldiri: 69.30
+    Savunma: 36.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 103.33
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 198.00
+  Toplam Savunma Gucu: 138.60
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 202.95
+  Toplam Savunma Gucu: 108.00
+
+
+Toplam Hasar: 90.00
+ork_dovusculeri birimi 18.75 hasar aldi:
+ork_dovusculeri biriminin yeni saglik degeri: 20.83 (Birim sayisi: 1)
+mizrakcilar birimi 15.00 hasar aldi:
+mizrakcilar biriminin yeni saglik degeri: 26.67 (Birim sayisi: 1)
+varg_binicileri birimi 26.25 hasar aldi:
+varg_binicileri biriminin yeni saglik degeri: 19.17 (Birim sayisi: 1)
+troller birimi 30.00 hasar aldi:
+troller biriminin yeni saglik degeri: 73.33 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  piyadeler:
+    Saldiri: 27.00
+    Savunma: 39.60
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 40.76
+
+  okcular:
+    Saldiri: 36.00
+    Savunma: 19.80
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 50.38
+
+  suvariler:
+    Saldiri: 45.00
+    Savunma: 29.70
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 75.57
+
+  kusatma_makineleri:
+    Saldiri: 90.00
+    Savunma: 49.50
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 75.95
+
+  ork_dovusculeri:
+    Saldiri: 34.65
+    Savunma: 22.50
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 20.83
+
+  mizrakcilar:
+    Saldiri: 44.55
+    Savunma: 18.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 26.67
+
+  varg_binicileri:
+    Saldiri: 54.45
+    Savunma: 31.50
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 19.17
+
+  troller:
+    Saldiri: 69.30
+    Savunma: 36.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 73.33
+
+  ork_dovusculeri:
+    Saldiri: 34.65
+    Savunma: 22.50
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 20.83
+
+  mizrakcilar:
+    Saldiri: 44.55
+    Savunma: 18.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 26.67
+
+  varg_binicileri:
+    Saldiri: 54.45
+    Savunma: 31.50
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 19.17
+
+  troller:
+    Saldiri: 69.30
+    Savunma: 36.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 73.33
+
+  piyadeler:
+    Saldiri: 27.00
+    Savunma: 39.60
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 40.76
+
+  okcular:
+    Saldiri: 36.00
+    Savunma: 19.80
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 50.38
+
+  suvariler:
+    Saldiri: 45.00
+    Savunma: 29.70
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 75.57
+
+  kusatma_makineleri:
+    Saldiri: 90.00
+    Savunma: 49.50
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 75.95
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 202.95
+  Toplam Savunma Gucu: 108.00
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 198.00
+  Toplam Savunma Gucu: 138.60
+
+
+Toplam Hasar: 64.35
+piyadeler birimi 18.39 hasar aldi:
+piyadeler biriminin yeni saglik degeri: 22.37 (Birim sayisi: 1)
+okcular birimi 9.19 hasar aldi:
+okcular biriminin yeni saglik degeri: 41.19 (Birim sayisi: 1)
+suvariler birimi 13.79 hasar aldi:
+suvariler biriminin yeni saglik degeri: 61.78 (Birim sayisi: 1)
+kusatma_makineleri birimi 22.98 hasar aldi:
+kusatma_makineleri biriminin yeni saglik degeri: 52.96 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  ork_dovusculeri:
+    Saldiri: 34.65
+    Savunma: 22.50
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 20.83
+
+  mizrakcilar:
+    Saldiri: 44.55
+    Savunma: 18.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 26.67
+
+  varg_binicileri:
+    Saldiri: 54.45
+    Savunma: 31.50
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 19.17
+
+  troller:
+    Saldiri: 69.30
+    Savunma: 36.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 73.33
+
+  piyadeler:
+    Saldiri: 27.00
+    Savunma: 39.60
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 22.37
+
+  okcular:
+    Saldiri: 36.00
+    Savunma: 19.80
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 41.19
+
+  suvariler:
+    Saldiri: 45.00
+    Savunma: 29.70
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 61.78
+
+  kusatma_makineleri:
+    Saldiri: 90.00
+    Savunma: 49.50
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 52.96
+
+  piyadeler:
+    Saldiri: 27.00
+    Savunma: 39.60
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 22.37
+
+  okcular:
+    Saldiri: 36.00
+    Savunma: 19.80
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 41.19
+
+  suvariler:
+    Saldiri: 45.00
+    Savunma: 29.70
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 61.78
+
+  kusatma_makineleri:
+    Saldiri: 90.00
+    Savunma: 49.50
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 52.96
+
+  ork_dovusculeri:
+    Saldiri: 34.65
+    Savunma: 22.50
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 20.83
+
+  mizrakcilar:
+    Saldiri: 44.55
+    Savunma: 18.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 26.67
+
+  varg_binicileri:
+    Saldiri: 54.45
+    Savunma: 31.50
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 19.17
+
+  troller:
+    Saldiri: 69.30
+    Savunma: 36.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 73.33
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 198.00
+  Toplam Savunma Gucu: 138.60
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 202.95
+  Toplam Savunma Gucu: 108.00
+
+
+Toplam Hasar: 90.00
+ork_dovusculeri birimi 18.75 hasar aldi:
+ork_dovusculeri biriminin yeni saglik degeri: 2.08 (Birim sayisi: 1)
+mizrakcilar birimi 15.00 hasar aldi:
+mizrakcilar biriminin yeni saglik degeri: 11.67 (Birim sayisi: 1)
+varg_binicileri birimi 26.25 hasar aldi:
+varg_binicileri biriminin yeni saglik degeri: 0.00 (Birim sayisi: 1)
+troller birimi 30.00 hasar aldi:
+troller biriminin yeni saglik degeri: 43.33 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  piyadeler:
+    Saldiri: 27.00
+    Savunma: 39.60
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 22.37
+
+  okcular:
+    Saldiri: 36.00
+    Savunma: 19.80
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 41.19
+
+  suvariler:
+    Saldiri: 45.00
+    Savunma: 29.70
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 61.78
+
+  kusatma_makineleri:
+    Saldiri: 90.00
+    Savunma: 49.50
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 52.96
+
+  ork_dovusculeri:
+    Saldiri: 34.65
+    Savunma: 22.50
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 2.08
+
+  mizrakcilar:
+    Saldiri: 44.55
+    Savunma: 18.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 11.67
+
+  varg_binicileri:
+    Saldiri: 54.45
+    Savunma: 31.50
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  troller:
+    Saldiri: 69.30
+    Savunma: 36.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 43.33
+
+  ork_dovusculeri:
+    Saldiri: 34.65
+    Savunma: 22.50
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 2.08
+
+  mizrakcilar:
+    Saldiri: 44.55
+    Savunma: 18.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 11.67
+
+  varg_binicileri:
+    Saldiri: 54.45
+    Savunma: 31.50
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  troller:
+    Saldiri: 69.30
+    Savunma: 36.00
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 43.33
+
+  piyadeler:
+    Saldiri: 27.00
+    Savunma: 39.60
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 22.37
+
+  okcular:
+    Saldiri: 36.00
+    Savunma: 19.80
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 41.19
+
+  suvariler:
+    Saldiri: 45.00
+    Savunma: 29.70
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 61.78
+
+  kusatma_makineleri:
+    Saldiri: 90.00
+    Savunma: 49.50
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 52.96
+
+
+Tur 10: Yorgunluk uygulaniyor. Tum birimlerin saldiri ve savunma gucleri %10 azaliyor...
+
+ork_dovusculeri birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 31.18
+  Yeni Savunma Gucu: 20.25
+
+mizrakcilar birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 40.09
+  Yeni Savunma Gucu: 16.20
+
+varg_binicileri birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 49.00
+  Yeni Savunma Gucu: 28.35
+
+troller birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 62.37
+  Yeni Savunma Gucu: 32.40
+
+piyadeler birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 24.30
+  Yeni Savunma Gucu: 35.64
+
+okcular birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 32.40
+  Yeni Savunma Gucu: 17.82
+
+suvariler birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 40.50
+  Yeni Savunma Gucu: 26.73
+
+kusatma_makineleri birimi icin yeni degerler:
+  Yeni Saldiri Gucu: 81.00
+  Yeni Savunma Gucu: 44.55
+
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 182.65
+  Toplam Savunma Gucu: 97.20
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 178.20
+  Toplam Savunma Gucu: 124.74
+
+
+Toplam Hasar: 57.92
+piyadeler birimi 16.55 hasar aldi:
+piyadeler biriminin yeni saglik degeri: 5.82 (Birim sayisi: 1)
+okcular birimi 8.27 hasar aldi:
+okcular biriminin yeni saglik degeri: 32.91 (Birim sayisi: 1)
+suvariler birimi 12.41 hasar aldi:
+suvariler biriminin yeni saglik degeri: 49.37 (Birim sayisi: 1)
+kusatma_makineleri birimi 20.68 hasar aldi:
+kusatma_makineleri biriminin yeni saglik degeri: 32.28 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  ork_dovusculeri:
+    Saldiri: 31.18
+    Savunma: 20.25
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 2.08
+
+  mizrakcilar:
+    Saldiri: 40.09
+    Savunma: 16.20
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 11.67
+
+  varg_binicileri:
+    Saldiri: 49.00
+    Savunma: 28.35
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  troller:
+    Saldiri: 62.37
+    Savunma: 32.40
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 43.33
+
+  piyadeler:
+    Saldiri: 24.30
+    Savunma: 35.64
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 5.82
+
+  okcular:
+    Saldiri: 32.40
+    Savunma: 17.82
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 32.91
+
+  suvariler:
+    Saldiri: 40.50
+    Savunma: 26.73
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 49.37
+
+  kusatma_makineleri:
+    Saldiri: 81.00
+    Savunma: 44.55
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 32.28
+
+  piyadeler:
+    Saldiri: 24.30
+    Savunma: 35.64
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 5.82
+
+  okcular:
+    Saldiri: 32.40
+    Savunma: 17.82
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 32.91
+
+  suvariler:
+    Saldiri: 40.50
+    Savunma: 26.73
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 49.37
+
+  kusatma_makineleri:
+    Saldiri: 81.00
+    Savunma: 44.55
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 32.28
+
+  ork_dovusculeri:
+    Saldiri: 31.18
+    Savunma: 20.25
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 2.08
+
+  mizrakcilar:
+    Saldiri: 40.09
+    Savunma: 16.20
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 11.67
+
+  varg_binicileri:
+    Saldiri: 49.00
+    Savunma: 28.35
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  troller:
+    Saldiri: 62.37
+    Savunma: 32.40
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 43.33
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 178.20
+  Toplam Savunma Gucu: 124.74
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 182.65
+  Toplam Savunma Gucu: 97.20
+
+
+Toplam Hasar: 81.00
+ork_dovusculeri birimi 16.88 hasar aldi:
+ork_dovusculeri biriminin yeni saglik degeri: 0.00 (Birim sayisi: 1)
+mizrakcilar birimi 13.50 hasar aldi:
+mizrakcilar biriminin yeni saglik degeri: 0.00 (Birim sayisi: 1)
+varg_binicileri birimi 23.62 hasar aldi:
+varg_binicileri biriminin yeni saglik degeri: 0.00 (Birim sayisi: 1)
+troller birimi 27.00 hasar aldi:
+troller biriminin yeni saglik degeri: 16.33 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  piyadeler:
+    Saldiri: 24.30
+    Savunma: 35.64
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 5.82
+
+  okcular:
+    Saldiri: 32.40
+    Savunma: 17.82
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 32.91
+
+  suvariler:
+    Saldiri: 40.50
+    Savunma: 26.73
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 49.37
+
+  kusatma_makineleri:
+    Saldiri: 81.00
+    Savunma: 44.55
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 32.28
+
+  ork_dovusculeri:
+    Saldiri: 31.18
+    Savunma: 20.25
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  mizrakcilar:
+    Saldiri: 40.09
+    Savunma: 16.20
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  varg_binicileri:
+    Saldiri: 49.00
+    Savunma: 28.35
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  troller:
+    Saldiri: 62.37
+    Savunma: 32.40
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 16.33
+
+  ork_dovusculeri:
+    Saldiri: 31.18
+    Savunma: 20.25
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  mizrakcilar:
+    Saldiri: 40.09
+    Savunma: 16.20
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  varg_binicileri:
+    Saldiri: 49.00
+    Savunma: 28.35
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  troller:
+    Saldiri: 62.37
+    Savunma: 32.40
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 16.33
+
+  piyadeler:
+    Saldiri: 24.30
+    Savunma: 35.64
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 5.82
+
+  okcular:
+    Saldiri: 32.40
+    Savunma: 17.82
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 32.91
+
+  suvariler:
+    Saldiri: 40.50
+    Savunma: 26.73
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 49.37
+
+  kusatma_makineleri:
+    Saldiri: 81.00
+    Savunma: 44.55
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 32.28
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 182.65
+  Toplam Savunma Gucu: 97.20
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 178.20
+  Toplam Savunma Gucu: 124.74
+
+
+Toplam Hasar: 57.92
+piyadeler birimi 16.55 hasar aldi:
+piyadeler biriminin yeni saglik degeri: 0.00 (Birim sayisi: 1)
+okcular birimi 8.27 hasar aldi:
+okcular biriminin yeni saglik degeri: 24.64 (Birim sayisi: 1)
+suvariler birimi 12.41 hasar aldi:
+suvariler biriminin yeni saglik degeri: 36.96 (Birim sayisi: 1)
+kusatma_makineleri birimi 20.68 hasar aldi:
+kusatma_makineleri biriminin yeni saglik degeri: 11.60 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  ork_dovusculeri:
+    Saldiri: 31.18
+    Savunma: 20.25
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  mizrakcilar:
+    Saldiri: 40.09
+    Savunma: 16.20
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  varg_binicileri:
+    Saldiri: 49.00
+    Savunma: 28.35
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  troller:
+    Saldiri: 62.37
+    Savunma: 32.40
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 16.33
+
+  piyadeler:
+    Saldiri: 24.30
+    Savunma: 35.64
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  okcular:
+    Saldiri: 32.40
+    Savunma: 17.82
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 24.64
+
+  suvariler:
+    Saldiri: 40.50
+    Savunma: 26.73
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 36.96
+
+  kusatma_makineleri:
+    Saldiri: 81.00
+    Savunma: 44.55
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 11.60
+
+  piyadeler:
+    Saldiri: 24.30
+    Savunma: 35.64
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  okcular:
+    Saldiri: 32.40
+    Savunma: 17.82
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 24.64
+
+  suvariler:
+    Saldiri: 40.50
+    Savunma: 26.73
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 36.96
+
+  kusatma_makineleri:
+    Saldiri: 81.00
+    Savunma: 44.55
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 11.60
+
+  ork_dovusculeri:
+    Saldiri: 31.18
+    Savunma: 20.25
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  mizrakcilar:
+    Saldiri: 40.09
+    Savunma: 16.20
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  varg_binicileri:
+    Saldiri: 49.00
+    Savunma: 28.35
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  troller:
+    Saldiri: 62.37
+    Savunma: 32.40
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 16.33
+
+  Sadiran toplam degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 178.20
+  Toplam Savunma Gucu: 124.74
+
+
+  Savunan toplma degerler:
+  Toplam Birim Sayisi: 4
+  Toplam Saldiri Gucu: 182.65
+  Toplam Savunma Gucu: 97.20
+
+
+Toplam Hasar: 81.00
+ork_dovusculeri birimi 16.88 hasar aldi:
+ork_dovusculeri biriminin yeni saglik degeri: 0.00 (Birim sayisi: 1)
+mizrakcilar birimi 13.50 hasar aldi:
+mizrakcilar biriminin yeni saglik degeri: 0.00 (Birim sayisi: 1)
+varg_binicileri birimi 23.62 hasar aldi:
+varg_binicileri biriminin yeni saglik degeri: 0.00 (Birim sayisi: 1)
+troller birimi 27.00 hasar aldi:
+troller biriminin yeni saglik degeri: 0.00 (Birim sayisi: 1)
+
+Tur Sonu Durumu:
+  piyadeler:
+    Saldiri: 24.30
+    Savunma: 35.64
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  okcular:
+    Saldiri: 32.40
+    Savunma: 17.82
+    Kritik Sans: 10.00
+    Kalan Birim: 1
+    Mevcut Saglik: 24.64
+
+  suvariler:
+    Saldiri: 40.50
+    Savunma: 26.73
+    Kritik Sans: 7.00
+    Kalan Birim: 1
+    Mevcut Saglik: 36.96
+
+  kusatma_makineleri:
+    Saldiri: 81.00
+    Savunma: 44.55
+    Kritik Sans: 0.00
+    Kalan Birim: 1
+    Mevcut Saglik: 11.60
+
+  ork_dovusculeri:
+    Saldiri: 31.18
+    Savunma: 20.25
+    Kritik Sans: 8.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  mizrakcilar:
+    Saldiri: 40.09
+    Savunma: 16.20
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  varg_binicileri:
+    Saldiri: 49.00
+    Savunma: 28.35
+    Kritik Sans: 6.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+
+  troller:
+    Saldiri: 62.37
+    Savunma: 32.40
+    Kritik Sans: 5.00
+    Kalan Birim: 1
+    Mevcut Saglik: 0.00
+Savas 13 turda bitti.
+Insan Imparatorlugu kazandi!
+Kalan toplam saglik: 73.19
+
+Kazanan tarafin kalan birimleri:
+piyadeler: 1 adet, her birinin saglik durumu 0.00
+okcular: 1 adet, her birinin saglik durumu 24.64
+suvariler: 1 adet, her birinin saglik durumu 36.96
+kusatma_makineleri: 1 adet, her birinin saglik durumu 11.60
